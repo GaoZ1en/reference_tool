@@ -21,7 +21,7 @@ A Rust command-line tool for fetching paper citations via the INSPIRE-HEP API.
 ### Build from Source
 
 ```bash
-git clone https://github.com/yourusername/reference_tool.git
+git clone https://github.com/GaoZ1en/reference_tool.git
 cd reference_tool
 cargo build --release
 ```
@@ -260,10 +260,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter issues:
 
-1. Check the [Issues](https://github.com/yourusername/reference_tool/issues) page
+1. Check the [Issues](https://github.com/GaoZ1en/reference_tool/issues) page
 2. Run with `--verbose` flag for detailed logging
 3. Create a new issue with the error details and steps to reproduce
 
 ---
 
-**Note**: Replace `yourusername` in the GitHub URLs with your actual GitHub username when creating the repository.
+**Repository**: https://github.com/GaoZ1en/reference_tool
