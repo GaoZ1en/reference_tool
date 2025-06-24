@@ -209,19 +209,6 @@ src/
 └── config.rs        # Configuration management
 ```
 
-### Running Tests
-
-```bash
-# Run unit tests
-cargo test
-
-# Run integration tests
-cargo test --test integration_tests
-
-# Run with verbose output
-cargo test -- --nocapture
-```
-
 ### Contributing
 
 1. Fork the repository
